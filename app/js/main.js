@@ -14,7 +14,7 @@ window.onload = function(e){
     
     document.onkeydown = function(e){
         snake.course = e.keyCode;
-        //wefwef
+        //wefwef222
         /* добавить защиту от смены курса на противоположный */
         switch(e.keyCode){
             case 37:
